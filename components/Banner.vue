@@ -12,7 +12,7 @@
             <v-row justify="center" align="center">
               <v-col cols="8">
                 <div dense class="bgBanner rounded-lg">
-                  <v-card-title class="justify-center display-1"
+                  <v-card-title class="justify-center display-1 text-wrap"
                     >همزبان - Hamzabaan</v-card-title
                   >
                   <v-card-actions class="align-center justify-center">
